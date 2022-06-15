@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevLaka/blog.git"
+  },
+  "keywords": [],
+  "author": "devlaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevLaka/blog/issues"
+  },
+  "homepage": "https://github.com/DevLaka/blog#readm",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
